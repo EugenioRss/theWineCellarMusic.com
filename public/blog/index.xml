@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Wine Cellar Music</title>
-    <link>https://thewinecellarmusic.github.io/blog/</link>
+    <link>/blog/</link>
     <description>Recent content on The Wine Cellar Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thewinecellarmusic.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://thewinecellarmusic.github.io/blog/about/</link>
+      <link>/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thewinecellarmusic.github.io/blog/about/</guid>
+      <guid>/blog/about/</guid>
       <description>Mi chiamo Eugenio, sono un matematico e lavoro come Data Scientist in un&amp;rsquo;azienda a Roma, in Italia. Ho da sempre una passione smisurata per tutto ciò che riguarda la musica. Sono cresciuto in mezzo a strumenti musicali e vinili. Ho suonato il pianoforte classico per molti anni in conservatorio e adesso porto questa passione su questo blog. Come avrai notato sono anche un appassionato di buon vino (specie se Italiano). Sono un assaggiatore di 1° livello ONAV.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://thewinecellarmusic.github.io/blog/contact/</link>
+      <link>/blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thewinecellarmusic.github.io/blog/contact/</guid>
+      <guid>/blog/contact/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
     </item>
     

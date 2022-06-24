@@ -1,5 +1,5 @@
 title = "The Wine Cellar Music"
-baseURL = "https://thewinecellarmusic.github.io"
+#baseURL = "https://"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "./resources"
