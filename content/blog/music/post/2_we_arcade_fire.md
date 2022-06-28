@@ -2,7 +2,7 @@
 date: 2022-06-23
 title: "WE"
 description: "Tornare sulla retta via"
-featured_image: "/images/post/music/we.jpeg"
+featured_image: "/images/we.png"
 ---
 
 Dopo 5 anni di lunghissima assenza gli Arcade Fire tornano a far parlare di sé con il nuovo disco: WE. 

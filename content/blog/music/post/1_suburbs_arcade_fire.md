@@ -2,7 +2,7 @@
 date: 2022-06-23
 title: "The Suburbs"
 description: "Crescere con gli Arcade Fire"
-featured_image: "/images/post/music/suburbs.jpeg"
+featured_image: "/images/suburbs.png"
 
 ---
 

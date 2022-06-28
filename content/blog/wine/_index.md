@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/wine_head.png'
 ---
-Prova.
+Qua potrete trovare pensieri, racconti ed esperienze legate al mondo del vino. Ogni qual volta sono colpito da un assaggio, una degustazione o una visita in cantina, cerco di riportare in questa sezione tutto ciò che ho provato dal punto di vista sensoriale.
