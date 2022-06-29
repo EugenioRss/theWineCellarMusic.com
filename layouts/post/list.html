@@ -8,9 +8,9 @@
     </section>
     <aside class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}
-<!--         <div class="relative w-100 w-30-l mb4 bg-white">
+        <div class="relative w-100 w-30-l mb4 bg-white">
           {{ .Render "summary" }}
-        </div> -->
+        </div>
       {{ end }}
     </aside>
     {{ template "_internal/pagination.html" . }}

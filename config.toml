@@ -3,6 +3,7 @@ title = "The Wine Cellar Music"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "./resources"
+summaryLength = 10
 
 DefaultContentLanguage = "ita"
 #SectionPagesMenu = "main"
@@ -30,6 +31,8 @@ contentDir = "content/blog"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-purple"
   recent_posts_number = 3
+  commentoEnable = true
+disqusShortname = 'eugeniorossini'
 
 [[params.ananke_socials]]
 name = "twitter"
@@ -44,8 +47,23 @@ url = "https://twitter.com/GoHugoIO"
   weight = -100
 
 [[menu.main]]
-  identifier = 'wine'
+  identifier = 'Wine'
   name = 'Wine'
   pre = "<i class='fa fa-heart'></i>"
   url = '/wine/'
   weight = -50
+
+[[menu.main]]
+  identifier = 'About'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = 50
+
+[[menu.main]]
+  identifier = 'Contact'
+  name = 'Contact'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/contact/'
+  weight = 100
+
