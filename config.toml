@@ -38,8 +38,14 @@ contentDir = "content/blog"
 
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = "github"
+url = "https://github.com/EugenioRss"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/the_wine_cellar_music/"
+
+
 
 [menu]
 [[menu.main]]
