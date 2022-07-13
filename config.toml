@@ -43,7 +43,7 @@ url = "https://github.com/EugenioRss"
 
 [[params.ananke_socials]]
 name = "instagram"
-url = "https://www.instagram.com/the_wine_cellar_music/"
+url = "https://www.instagram.com/musicwineblog/"
 
 
 
@@ -68,11 +68,4 @@ url = "https://www.instagram.com/the_wine_cellar_music/"
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = 50
-
-[[menu.main]]
-  identifier = 'Contact'
-  name = 'Contact'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/contact/'
-  weight = 100
 
