@@ -16,6 +16,9 @@ enableRobotsTXT = true
 #weight = 1
 contentDir = "content/blog"
 # languageDirection = 'rtl' for Right-To-Left languages
+
+[markup.goldmark.renderer]
+ unsafe = true
     
 
 [sitemap]
@@ -34,7 +37,6 @@ contentDir = "content/blog"
   recent_posts_number = 3
   commentoEnable = false
   mainSections = ["music", "wine"]
-
 
 
 
