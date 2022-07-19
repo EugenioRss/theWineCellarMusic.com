@@ -2,7 +2,7 @@
 date: 2022-06-23
 title: "WE"
 description: "Tornare sulla retta via"
-featured_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_we_cover.jpg
+featured_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/arcade_fire_we_cover.webp
 ---
 ## Intro
 Dopo 5 anni di lunghissima assenza gli Arcade Fire tornano a far parlare di sé con il nuovo disco: WE. 
@@ -47,8 +47,15 @@ Mentre i testi dei brani sul lato “I” si susseguono diventando sempre più c
 > *We'll see one day*
 > *What's on the other side”*
 
-Basta voltare il disco quindi per cambiare subito ambientazione. I due Inni di rinascita *The Lightning I* e *II*, sanciscono il cambio di stile e di tono del secondo lato. Questi due brani sono veramente esplosivi e carichi di trasporto emotivo. Non a caso sono stati scelti come singoli e fatti uscire a marzo 2022. In quel periodo alcuni fortunati fan tra USA e Canada hanno ricevuto via posta una cartolina (già in *The Suburbs* gli stessi Arcade Fire avevano palesato l’amore per questa forma di comunicazione) con scritto “We Missed you” e le note del ritornello del singolo. Nella {{< rawhtml >}}<a href="https://www.arcadefire.com/news/article/#news-48151" target="_blank">pagina ufficiale</a> {{< /rawhtml >}} la stessa band ha dichiarato di essersi ispirata ad un canto di liberazione haitiano per realizzare il chorus. Wim e gli altri avrebbero ascoltato questo canto intonato direttamente dagli immigrati haitiani dopo le elezioni presidenziali del 2020, che hanno portato alla Casa Bianca il democratico Joe Biden. Elezione molto sentita e travagliata, soprattutto dopo i 4 anni di presidenza Trump, incentrata su toni forti, divisivi e discriminatori verso le minoranze che compongono gli Stati Uniti.
+Basta voltare il disco quindi per cambiare subito ambientazione. I due Inni di rinascita *The Lightning I* e *II*, sanciscono il cambio di stile e di tono del secondo lato. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJiALpiqpk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Questi due brani sono veramente esplosivi e carichi di trasporto emotivo. Non a caso sono stati scelti come singoli e fatti uscire a marzo 2022. In quel periodo alcuni fortunati fan tra USA e Canada hanno ricevuto via posta una cartolina (già in *The Suburbs* gli stessi Arcade Fire avevano palesato l’amore per questa forma di comunicazione) con scritto “We Missed you” e le note del ritornello del singolo. Nella {{< rawhtml >}}<a href="https://www.arcadefire.com/news/article/#news-48151" target="_blank">pagina ufficiale</a> {{< /rawhtml >}} la stessa band ha dichiarato di essersi ispirata ad un canto di liberazione haitiano per realizzare il chorus. Wim e gli altri avrebbero ascoltato questo canto intonato direttamente dagli immigrati haitiani dopo le elezioni presidenziali del 2020, che hanno portato alla Casa Bianca il democratico Joe Biden. Elezione molto sentita e travagliata, soprattutto dopo i 4 anni di presidenza Trump, incentrata su toni forti, divisivi e discriminatori verso le minoranze che compongono gli Stati Uniti.
 Con *Unconditional I (Lookout Kid)* e *Unconditional II (Race and Religion)* si sancisce definitivamente l’accoglienza totale ed incondizionata di tutto il genere umano, senza alcun tipo di discriminazione. L'amore per il genere umano *tout court*, senza confini o distinzioni. John Lennon docet. L'unico futuro possibile è quello senza divisioni tra persone o popoli, senza più guerre né confini.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FdXRbOrsyRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 La seconda parte di *Unconditional* inoltre ha come ospite l’ex-Genesis Peter Gabriel in duetto con Régine Chassagne. Il musicista britannico aveva già espresso simpatia e stima per gli Arcade Fire quando nel 2010 li aveva omaggiati arrangiando una cover di *My Body Is A Cage* nel suo *Scratch My Back*. Il tocco vocale di Gabriel nobilita ancora di più un brano già di per sé profondo e toccante.
 Il disco si conclude con il brano che dà il titolo a tutto l’album.
 ## Considerazioni finali

@@ -2,7 +2,7 @@
 title: "About me"
 description: "Lasciate che mi presenti"
 cascade:
-  featured_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/about_me_section_wallpaper.jpg
+  featured_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/about_me_section_wallpaper.webp
 
 ---
 Ciao! Mi chiamo Eugenio e sono Toscano.

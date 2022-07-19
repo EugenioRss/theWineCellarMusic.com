@@ -2,7 +2,7 @@
 date: 2022-06-23
 title: "L'Umbria del Sagrantino"
 description: "Carapace - Montefalco Sagrantino DOCG"
-featured_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/tenuta_castelbuono.jpg
+featured_image: https://res.cloudinary.com/eugenio-rossini/image/upload/v1657821059/theWineCellarMusic/tenuta_castelbuono.webp
 ---
 
 Chiudete per un secondo gli occhi ed immaginate di trovarvi sul dolce declivio di una collina umbra, il sole batte forte e siamo nel pieno della calura estiva. Infatti, pur non essendo l’ora centrale del giorno, il sole riesce ancora ad illluminare in maniera uniforme tutto il panorama che si staglia davanti ai vostri occhi. Curve sinuose ocra e giallo-grigio che si intersecano ora vicino e ora sul termine dell’orizzonte. Nonostante la temperatura, nemmeno per un istante non desiderereste essere lì, in quel luogo magico e mistico, immerso nei filari di una vigna antica, che dà frutti ancora più antichi, la cui origine si perde nella leggenda.
@@ -12,7 +12,17 @@ Chiunque abbia visitato l’Umbria almeno una volta non può non essere rimasto 
 ## Il vitigno
 Il vitigno cresce soprattutto nei territori che circondano il comune di Montefalco, con soli 670 ettari in produzione dedicati alla coltura gestiti da circa 350 produttori di uva. Come spesso accade in Italia, la sua versione “secca” ha una storia abbastanza recente, poco più di 30 anni. Un tempo la versione più nota del Sagrantino era quella di un vino dolce e robusto, oggi invece si pensa principalmente alla versione secca, che negli ultimi decenni ha superato come successo la già ottima versione passita.
 ## Carapace - Tenuta Castelbuono
-Ritorniamo di nuovo tra i vigneti nell’assolata estate umbra. Risalendo la pendenza collinare si erge davanti a noi un enorme carapace, simile a quello di una tartaruga. Questo non è un carapace qualsiasi, bensì è lo scrigno che la Famiglia Lunelli utilizza come cantina per la sua Tenuta Castelbuono. La struttura è stata realizzata dal noto architetto italiano Arnaldo Pomodoro, amico dei Lunelli. Il carapace, racconta lo stesso pomodoro, oltre che accompagnare la dolcezza delle colline umbre, rappresenta la longevità e la stabilità tipica delle tartarughe. Stabilità che ritroviamo nel vino che lì si produce, capace di durare nel tempo e di migliorare con il corretto affinamento. La tartaruga è inoltre un simbolo mistico, che rappresenta l’unione tra terra e cielo, così come l'Umbria è per antonomasia la regione di Italia sospesa tra sacro e profano: la forte tradizione contadina sotto cui scorre una vena spirituale che la eleva in uno stadio metafisico. 
+
+<figure>
+
+<img style="float: left;" src="https://res.cloudinary.com/eugenio-rossini/image/upload/v1658154450/theWineCellarMusic/carapace.webp">
+
+<figcaption align = "center" ><b>Il caratteristico Carapace di Tenuta Castelbuono</b></figcaption>
+</figure>
+
+Ritorniamo di nuovo tra i vigneti nell’assolata estate umbra. Risalendo la pendenza collinare si erge davanti a noi un enorme carapace, simile a quello di una tartaruga. Questo non è un carapace qualsiasi, bensì è lo scrigno che la Famiglia Lunelli utilizza come cantina per la sua Tenuta Castelbuono. La struttura è stata realizzata dal noto architetto italiano Arnaldo Pomodoro, amico della famiglia. Il carapace, racconta lo stesso Pomodoro, oltre che accompagnare la dolcezza delle colline umbre, rappresenta la longevità e la stabilità tipica delle tartarughe. Stabilità che ritroviamo nel vino che lì si produce, capace di durare nel tempo e di migliorare con il corretto affinamento. La tartaruga è inoltre un simbolo mistico, che rappresenta l’unione tra terra e cielo, così come l'Umbria è per antonomasia la regione di Italia sospesa tra sacro e profano: la forte tradizione contadina sotto cui scorre una vena spirituale che la eleva in uno stadio metafisico. 
+La realizzazione del Carapace ha richiesto sei anni ed il lavoro di una vera e propriabottega rinascimentale guidata dalla sensibilità di Arnaldo Pomodoro e, per gli aspetti più tecnici, dall'architetto Giorgio Pedrotti. 
+Il “Carapace” si offre allo sguardo come una cupola ricoperta di rame, attraversata da crepe e cretti che ricordano i solchi della terra che l’abbraccia. Un elemento scultoreo a forma di dardo di colore rosso che si conficca nel terreno sottolinea l’opera nel paesaggio.
 ## DOCG Montefalco Sagrantino
 Tutto questo ci torna in mente adesso, è inverno e mi accingo ad assaggiare il vino acquistato nella cantina del Carapace quel giorno di luglio: *"Carapace- Montefalco Sagrantino DOCG"*, annata 2016. 
 Vale la pena soffermarsi un istante sul processo di realizzazione di questo vino: il disciplionare di produzione "DOCG Montefalco Sagrantino" prevede l’utilizzo di uve Sagrantino al 100%, in questo caso le uve sono state raccoolte manualmente nel mese di ottobre. Dopo una prefermentazione a freddo viene eseguita la normale fermentazione alcolica in tini di legno. Dopo 15-20 giorni di macerazione sulle bucce, viene trasferito in botti grandi di rovere dove permane per 24 mesi. A seguito dell’imbottigliamento, segue un periodo minimo di 12 mesi di affinamento in bottiglia. Il totale è quindi di 36 mesi di affinamento (il minimo per la DOCG è di 33). 
@@ -48,13 +58,24 @@ Vale la pena soffermarsi un istante sul processo di realizzazione di questo vino
 > : 2003
 
 ## L'assaggio
+
+
+<img style="float: right;" title='"Carapace" Montefalco Sagrantino DOCG' src="https://res.cloudinary.com/eugenio-rossini/image/upload/v1658151604/theWineCellarMusic/sagrantino_montefalco.webp">
+
+
 Prendendo in mano il calice di *"Carapace"* il colore che vedo è quello tipico di un Sagrantino di otttima qualità: forte intensità viola-nera. Ricorda visivamente il colore dei frutti di bosco scuri, colti in inverno. Facendolo roteare delicatamente nel calice si nota subito la caratteristica principale di questo vino, il corpo deciso e strutturato che preannuncia un vino importante e di qualità. Al naso è un trionfo di confetture di more e mirtilli ma anche ciliegie sotto spirito, carruba e petali di rosa appassiti. Spiccano note di liquirizia, di cioccolata, di terra, che vanno ad impreziosire il quadro organolettico del vino. In bocca è cremoso e di grande impatto. Potente, lungo, persistente con un tannino che ha acquisito nel periodo di affinamento eleganza e raffinatezza e che dona a questo vino l’importanza che merita. Perfetto da abbinare	a preparazioni di carne importanti e gustose. Abbinabile anche a formaggi stagionati e a piatti della tradizione umbra (o del centro Italia in generale). Si sposa bene anche con piatti a base di tartufo (preferibile Nero di Norcia).
 Questo vino rimarrà per sempre impresso nella mia memoria gustativo-olfattiva e soprattutto legato alla memoria sentimentale, perché legato a momenti felici vissuti come ospiti in una terra stupenda che amo. Questo Sagrantino invita alla convivialità e alla condivisione tra amici e tra persone care, evocando ad ogni sorso un ricordo bellissimo.
-## La cantina
-![Image alt](/images/carapace_vino.png)
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/tenutacastelbuono_787923?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/it/map/tenutacastelbuono_787923">Visualizza a schermo intero</a></p>
+
+## Come raggiungere la cantina
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fuxz39_ZiNouuy0B399lDF_leS8TgLk&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Dove acquistarlo
 Ovviamente alla cantina ma di seguito riporto alcuni link utili:
-		
+
+* <a href="https://tenutelunelli.it/it/vini_umbria_carapace.php" target="_blank">Sito Web Tenute Lunelli</a>
+
+* <a href="https://www.tannico.it/montefalco-sagrantino-docg-carapace-2016-tenuta-castelbuono-tenute-lunelli.html" target="_blank">Tannico</a>
+
+* <a href="https://www.vivino.com/IT/it/tenuta-castelbuono-carapace-montefalco-sagrantino/w/2389513?" target="_blank">Vivino</a>
