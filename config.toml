@@ -37,6 +37,7 @@ contentDir = "content/blog"
   recent_posts_number = 3
   commentoEnable = false
   mainSections = ["music", "wine"]
+  read_more_copy = "leggi"
 
 
 
