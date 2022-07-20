@@ -14,19 +14,19 @@ Sono un assaggiatore di 1° livello ONAV.
 
 Grazie di essere passatə!
 
-Lascio di seguito alcuni link ai miei social
+I miei social:
 
 <div class="flex-l mt2 mw8 center">
   <article class="center cf pv5 ph3 ph4-ns mw7">
     <div class="row">
       <div class="column">
-        <a href=”https://www.linkedin.com/in/eugenio-rossini/” target=”_blank”><img src=https://res.cloudinary.com/eugenio-rossini/image/upload/v1658333149/theWineCellarMusic/linkedin_icon.svg width="40" height="40">
+        <a href="https://www.linkedin.com/in/eugenio-rossini/" target=”_blank”><img src=https://res.cloudinary.com/eugenio-rossini/image/upload/v1658333149/theWineCellarMusic/linkedin_icon.svg width="40" height="40">
       </div>
     <div class="column">
-      <a href=”https://github.com/EugenioRss” target=”_blank”><img src=https://res.cloudinary.com/eugenio-rossini/image/upload/v1658333149/theWineCellarMusic/github_icon.svg width="40" height="40">
+      <a href="https://github.com/EugenioRss" target=”_blank”><img src=https://res.cloudinary.com/eugenio-rossini/image/upload/v1658333149/theWineCellarMusic/github_icon.svg width="40" height="40">
     </div>
     <div class="column">
-      <a href=”https://www.instagram.com/eu.rossini/” target=”_blank”><img src=https://res.cloudinary.com/eugenio-rossini/image/upload/v1658333170/theWineCellarMusic/instagram_icon.svg width="40" height="40">
+      <a href="https://www.instagram.com/eu.rossini/" target=”_blank”><img src=https://res.cloudinary.com/eugenio-rossini/image/upload/v1658333170/theWineCellarMusic/instagram_icon.svg width="40" height="40">
     </div>
   </article>
 </div>
