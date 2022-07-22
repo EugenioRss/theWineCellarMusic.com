@@ -70,7 +70,7 @@ Questo vino rimarrà per sempre impresso nella mia memoria gustativo-olfattiva e
 
 ## Come raggiungere la cantina
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fuxz39_ZiNouuy0B399lDF_leS8TgLk&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2919.4744253316308!2d12.560643951023335!3d42.96827890436389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132e9af7b926f281%3A0x3046d2e258dc0491!2sTenuta%20Castelbuono!5e0!3m2!1sit!2sit!4v1658502472848!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Dove acquistarlo
 Ovviamente alla cantina ma di seguito riporto alcuni link utili:
