@@ -10,5 +10,5 @@ cascade:
 Benvenuti naviganti! 
 
 Accomodatevi, mettete su un buon disco e versatevi la bevanda che amate di più. 
-Qui parleremo soprattutto di musica, di dischi, di emozioni e suggestioni legate all'ascolto. 
-Di tanto in tanto potreste trovare interessante anche dare un'occhiata alla cantina, dove parlo in maniera molto semplice di vini che ho assaggiato e che mi sono piaciuti.
+Qui parleremo soprattutto di [musica]({{< ref "/music">}}), di dischi, di emozioni e suggestioni legate all'ascolto. 
+Di tanto in tanto potreste trovare interessante anche dare un'occhiata alla [cantina]({{< ref "/wine">}}), dove parlo in maniera molto semplice di vini che ho assaggiato e che mi sono piaciuti.

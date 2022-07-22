@@ -6,6 +6,8 @@ resourceDir = "./resources"
 summaryLength = 10
 disqusShortname = "https-main-thewinecellarmusic-netlify-app"
 
+
+
 DefaultContentLanguage = "ita"
 #SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -37,6 +39,7 @@ contentDir = "content/blog"
   recent_posts_number = 3
   commentoEnable = false
   mainSections = ["music", "wine"]
+  read_more_copy = "leggi"
 
 
 
