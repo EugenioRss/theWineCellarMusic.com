@@ -70,3 +70,22 @@ Una volta tolto il disco dal piatto del giradischi rimangono dentro di me divers
 {{< /rawhtml >}}
 
 ## Dove acquistarlo
+
+<div class="row">
+    <div class="column">
+      <div class="row">
+        <h4> CD </h4>
+      </div>
+      <div class="row">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thewinecell0e-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09TWTDYQ8&linkId=87fb286a229c5ac89c77c126a2b887ac"></iframe>
+      </div>
+    </div>
+    <div class="column">
+      <div class="row">
+        <h4> LP </h4>
+      </div>
+      <div class="row">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thewinecell0e-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09VRCLP3L&linkId=43915708bd18ee5fb66cfa9279abdbdc"></iframe>
+      </div>
+    </div>
+</div>

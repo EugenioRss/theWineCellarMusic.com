@@ -47,6 +47,21 @@ Le tempeste sonore di *Rococo*, i violini sognanti di *Half Light I* e l’uso d
 
 ## Dove acquistarlo
 
-{{< rawhtml >}}
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thewinecell0e-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B075XPP7KZ&linkId=ae327816c3e25233fdbb2483ba09f3b9"></iframe>
-{{< /rawhtml >}}
+<div class="row">
+    <div class="column">
+      <div class="row">
+        <h4> CD </h4>
+      </div>
+      <div class="row">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thewinecell0e-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0749MWTCJ&linkId=1a2bba1555a5d4e75c1a146b40c63967"></iframe>
+      </div>
+    </div>
+    <div class="column">
+      <div class="row">
+        <h4> LP </h4>
+      </div>
+      <div class="row">
+        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thewinecell0e-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B075XPP7KZ&linkId=ddcceb5e849b4041f3d2377ca634cb12"></iframe>
+      </div>
+    </div>
+</div>

@@ -1,44 +1,47 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
 #TableOfContents ul li {
-  margin-bottom: 1em;
+margin-bottom: 1em;
 }
 
 .lh-copy blockquote {
-  display: block;
-  font-size: .875em;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  border-left: 4px solid #ccc;
-  padding-left: 1rem;
+display: block;
+font-size: .875em;
+margin-left: 2rem;
+margin-top: 2rem;
+margin-bottom: 2rem;
+border-left: 4px solid #ccc;
+padding-left: 1rem;
 
 }
 
 .nested-links a{
-  overflow-wrap: break-word;
+overflow-wrap: break-word;
 }
 
 /* Set additional styling options for the columns */
 .column {
-  float: left;
-  }
+float: left;
+border-spacing:75px 0;
+}
 
-  /* Set width length for the left, right and middle columns */
-  .left {
-  width: 20%;
-  }
+/* Set width length for the left, right and middle columns */
+.left {
+width: 20%;
+}
 
-  .middle {
-  width: 40%;
-  }
-  
-  .right {
-  width: 50%;
-  }
+.middle {
+width: 40%;
+}
 
-  .row:after {
-  content: "";
-  display: table;
-  clear: both;
-  }
+.right {
+width: 50%;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+h4 {text-align: left;}
