@@ -46,5 +46,7 @@ Le tempeste sonore di *Rococo*, i violini sognanti di *Half Light I* e l’uso d
 {{< /rawhtml >}}
 
 ## Dove acquistarlo
-Qua verrà inserito il link ad amazon con il programma di affiliazione.
 
+{{< rawhtml >}}
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thewinecell0e-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B075XPP7KZ&linkId=ae327816c3e25233fdbb2483ba09f3b9"></iframe>
+{{< /rawhtml >}}
